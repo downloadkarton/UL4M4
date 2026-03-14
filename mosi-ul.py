@@ -1,8 +1,5 @@
 """
-Cluster-Guided Iterative Imputation for Missing Modalities
-Implementation of the method from via-ul.txt
-
-This uses the frozen encoders and reuses the fusion/task head from wArms.
+UL4M4: Unsupervised Learning for Missing Modalities in Multimodal Learning
 """
 
 import os
